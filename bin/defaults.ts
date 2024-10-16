@@ -6,7 +6,7 @@ export const DEFAULT_PAKE_OPTIONS: PakeCliOptions = {
   width: 1200,
   fullscreen: false,
   resizable: true,
-  hideTitleBar: false,
+  hideTitleBar: true,
   alwaysOnTop: false,
   darkMode: false,
   disabledWebShortcuts: false,
